@@ -1,4 +1,17 @@
-# EXTM3U
+
+
+
+# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/00826082/94250/35086
+http://pfsv.io:80/00826082/94250/33400
+# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 04
+http://pfsv.io:80/00826082/94250/33401
+# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 05
+http://pfsv.io:80/00826082/94250/33402
+# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/00826082/94250/35087
+# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/00826082/94250/35088
 # EXTINF: -1 tvg-logo = "" group-title = "Canais | A Fazenda", A Fazenda 12 (2020)
 http://pfsv.io:80/07720253/51853/48757
 http://pfsv.io:80/07720253/51853/
@@ -7,17 +20,6 @@ http://pfsv.io:80/00826082/94250/33377
 # EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 02
 http://pfsv.io:80/00826082/94250/33399
 # EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 03
-http://pfsv.io:80/00826082/94250/33400
-# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 04
-http://pfsv.io:80/00826082/94250/33401
-# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", # EVENTOS 05
-http://pfsv.io:80/00826082/94250/33402
-# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 02
-http://pfsv.io:80/00826082/94250/35086
-# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 02
-http://pfsv.io:80/00826082/94250/35087
-# EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 03
-http://pfsv.io:80/00826082/94250/35088
 # EXTINF: -1 tvg-logo = "" group-title = "Canais | Jogos & Eventos", CAMPEONATO CATARINENSE 04
 http://pfsv.io:80/00826082/94250/35089
 # EXTINF: -1 tvg-logo = "http://logos.pfsv.io/conmebol.png" group-title = "Canais | Jogos & Eventos", Conmebol 01 FHD
